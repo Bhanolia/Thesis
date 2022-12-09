@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "388831759495",
+    "project_id": "manager-7236b",
+    "storage_bucket": "manager-7236b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388831759495:android:d193a32cd5a6c3e067fc22",
+        "android_client_info": {
+          "package_name": "com.bhanolia.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388831759495-909q55g49k61q2cfl483cdlpmenn8kej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzh9AnAo-quObpflyeYA2BN7EF__F67A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388831759495-909q55g49k61q2cfl483cdlpmenn8kej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388831759495-9uqo4shpakaj8pf8hksmgn0p5f62kbmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bhanolia.manager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
